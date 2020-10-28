@@ -131,6 +131,8 @@
 \definecolor{purple}{HTML}{D3A4F9}
 \definecolor{red}{HTML}{FB4485}
 \definecolor{blue}{HTML}{6CE0F1}
+\definecolor{teradataorange}{HTML}{f3753f}
+\definecolor{ucsandiegoblue}{HTML}{006A96}
 % Text colors
 \definecolor{darktext}{HTML}{414141}
 \colorlet{text}{darkgray}
